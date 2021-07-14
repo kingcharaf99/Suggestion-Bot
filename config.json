@@ -1,0 +1,7 @@
+{
+    "prefix": "PREFIX",
+    "main_token": "TOKEN",
+    "developers": ["ID"],
+    "bot_name":"YOUR BOT'S NAME",
+    "suggestion_channel_id":"CHANNELID"
+  }
